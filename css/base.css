@@ -24,3 +24,8 @@ h2{
     text-transform: capitalize;
     text-align: center;
 }
+.gitTest{
+    font-size: 36px;
+    text-align: justify;
+    padding: 50px;
+}
